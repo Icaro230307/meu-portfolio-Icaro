@@ -1,0 +1,67 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px; 
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column ;
+}
+header {
+background: rgb(0, 0, 0);
+color: aquamarine;
+padding: 20px;
+text-align: center;
+
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px
+
+}
+
+nav ul li {
+    display: inline;
+margin: 15px
+
+}
+ .sobre {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+ }
+ 
+.img {
+
+    position: absolute;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+    left: 80%;
+   
+    
+    
+}
+.imagem-direita {
+
+    height: auto ;
+}
+.ic {
+
+    align-items: center;
+
+
+}
+
+.geral {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+.ica {
+    position: relative;
+
+}
